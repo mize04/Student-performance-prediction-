@@ -1,6 +1,6 @@
-Streamlit
+streamlit
 joblib
-Python
+python
 Jupyter Notebooks
-Pandas
-Scikit-Learn
+pandas
+scikit-learn
